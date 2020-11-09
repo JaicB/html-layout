@@ -1,0 +1,11 @@
+.section-1 {
+    width: 100vw;
+    height: 14vh;
+    background-color: lightgray;
+}
+
+.section-1sub {
+    width: 30px;
+    height: 30px;
+    background-color: rgb(94, 159, 245);
+}
