@@ -1,11 +1,64 @@
-.section-1 {
-    width: 100vw;
-    height: 14vh;
-    background-color: lightgray;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-.section-1sub {
-    width: 30px;
-    height: 30px;
-    background-color: rgb(94, 159, 245);
+body {
+   width: 80vw;
+    margin: auto;
+    background-color: white;
+}
+
+.section-1 {
+    width: 80vw;
+    height: 20vh;
+    background-color: lightgray;
+    align-content: center;
+    padding: 10px 25px;
+}
+
+.square {
+    width: 125px;
+    height: 125px;
+    background-color: #4990e2;
+    display: flex;
+}
+
+p {
+    box-sizing: border-box;
+    padding: 5px 15px;
+    font-size: 25px;
+}
+
+.section-2 {
+    width: 80vw;
+    height: 30vh;
+    background-color: white;
+    padding: 15px 20px;
+}
+
+.section-3 {
+    width: 80vw;
+    height: 20vh;
+    background-color:  #4990e2;
+}
+
+.section-4 {
+    width: 80vw;
+    height: 20vh;
+    background-color: #4fe3c1;
+}
+
+.section-5 {
+    width: 80vw;
+    height: 20vh;
+    background-color: #b9e886;
+}
+
+.section-6 {
+    width: 80vw;
+    height: 20vh;
+    background-color: #f8e71d;
 }
